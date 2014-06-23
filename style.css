@@ -1,3 +1,33 @@
 .about-photo {
 	width: 400px;
 }
+
+span {
+	color: red;
+}
+
+.left {
+	float: left;
+}
+
+.right {
+	float: rights;
+}
+
+div {
+	width: 100px;
+	height: 100px;
+	color: white;
+}
+
+.red-block {
+	background-color: red;
+}
+
+.blue-block {
+	background-color: blue;
+}
+
+.green-block {
+	background-color: green;
+}
